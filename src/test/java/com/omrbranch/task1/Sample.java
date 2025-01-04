@@ -14,6 +14,17 @@ public class Sample {
 		String employeeNam=s.nextLine();
 		System.out.println("my employee name is "+employeeNam);
 		
+		System.out.println("enter the student name is");
+		String studentName=Scan.next();
+		System.out.println("my student name is  "+studentName);
+		System.out.println("enter the student name is");
+		String studentNam=s.nextLine();
+		System.out.println("my student name is "+studentNam);
+		
+		
+		
+		
+		
 
 	}
 
